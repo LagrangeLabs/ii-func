@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "ii-hooks",
-  "version": "1.0.8",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "start": "dumi dev",
@@ -13,6 +13,11 @@
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
     "test": "umi-test",
     "test:coverage": "umi-test --coverage"
+  },
+  "homepage": "https://github.com/LagrangeLabs/ii-func",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LagrangeLabs/ii-func.git"
   },
   "files": [
     "dist",
